@@ -20,6 +20,10 @@ Hi, I'm MD Riaz, a passionate self-taught frontEnd web developer from Bangladesh
     <a href="mailto:mdriazwd@gmail.com">
   <img  align="left" alt="MD Riaz | Gmail" width="30" src="https://raw.githubusercontent.com/md-riaz/md-riaz/70ff6b5cd7e107229d21c2f90de18f66e74c7857/assets/gmail.svg" /></a>
 
+    <a href="https://mdriaz.ml/">
+  <img  align="left" alt="MD Riaz | site" width="30" src="https://raw.githubusercontent.com/md-riaz/md-riaz/70ff6b5cd7e107229d21c2f90de18f66e74c7857/assets/gmail.svg" /></a>
+
+<br />
 <br />
 
 - ⚡ Fun fact: I lost time when coding something interesting.. Hahah!
