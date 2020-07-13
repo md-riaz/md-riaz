@@ -1,4 +1,5 @@
-### Hi there, I'm [Riaz!](https://md-riaz.github.io) 👋
+### Hi there, I'm [Riaz!](https://md-riaz.github.io) 👋   
+<img src="https://visitor-badge.glitch.me/badge?page_id=md-riaz.visitor-badge">
 
 ![Riaz's github stats](https://github-readme-stats.vercel.app/api?username=md-riaz&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
