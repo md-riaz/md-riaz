@@ -11,11 +11,14 @@ Hi, I'm MD Riaz, a passionate self-taught frontEnd web developer from Bangladesh
 - 💬 Ask me about anything [here](https://github.com/md-riaz/md-riaz/issues)
 - 📫 How to reach me:
 
-<a href="https://www.facebook.com/mdriazwd">
+    <a href="https://www.facebook.com/mdriazwd">
   <img  align="left" alt="MD Riaz | Facebook" width="30" src="https://raw.githubusercontent.com/md-riaz/md-riaz/2c036120117239c13e6617112e97efc6b704bea0/assets/facebook.svg" /></a>
 
-<a href="https://www.facebook.com/mdriazwd">
-  <img  align="left" alt="MD Riaz | Facebook" width="30" src="https://raw.githubusercontent.com/md-riaz/md-riaz/2c036120117239c13e6617112e97efc6b704bea0/assets/facebook.svg" /></a>
+    <a href="https://twitter.com/mdriaz_wd">
+  <img  align="left" alt="MD Riaz | Twitter" width="30" src="https://raw.githubusercontent.com/md-riaz/md-riaz/f76feb2b446423b9299fbfdb9a3299b352f176aa/assets/twitter.svg" /></a>
+
+    <a href="mailto:mdriazwd@gmail.com">
+  <img  align="left" alt="MD Riaz | Gmail" width="30" src="https://raw.githubusercontent.com/md-riaz/md-riaz/70ff6b5cd7e107229d21c2f90de18f66e74c7857/assets/gmail.svg" /></a>
 
 <br />
 
