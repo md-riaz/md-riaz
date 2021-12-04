@@ -4,9 +4,8 @@
 Hi, I'm MD Riaz, a passionate self-taught frontEnd web developer from Bangladesh.
 
 
-- 🔭 I’m currently working on an Laravel E-commerce Website Practice.
-- 🌱 I’m currently learning Frontend & Backend staff.
-- 🤔 I’m looking for help with Laravel staff.
+- 🔭 Full time raw php developer
+- 🌱 Learning other Frontend & Backend staff on leisure times.
 - 💬 Ask me about anything [here](https://github.com/md-riaz/md-riaz/issues)
 - 📫 How to reach me:
 
