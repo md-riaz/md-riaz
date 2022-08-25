@@ -13,6 +13,8 @@ Hi, I'm MD Riaz, a passionate self-taught Frontend & Backend web developer from 
   </p>
 </details>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=md-riaz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 - 🔭 Full time raw php developer
 - 🌱 Learning other Frontend & Backend staff on leisure times.
 - 💬 Ask me about anything [here](https://github.com/md-riaz/md-riaz/issues)
