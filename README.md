@@ -1,5 +1,5 @@
 ### Hi there, I'm [Riaz!](https://md-riaz.github.io) 👋   
-<img src="https://visitor-badge.glitch.me/badge?page_id=md-riaz.visitor-badge">
+[![Hits](https://hits.sh/github.com/md-riaz.svg)](https://hits.sh/github.com/md-riaz/)
 
 Hi, I'm MD Riaz, a passionate self-taught Frontend & Backend web developer from Bangladesh.
 
