@@ -1,50 +1,132 @@
-### Hi there, I'm [Riaz!](https://md-riaz.github.io) 👋   
-[![Hits](https://hits.sh/github.com/md-riaz.svg)](https://hits.sh/github.com/md-riaz/)
+<h1 align="center">Hey, I'm Riaz 👋</h1>
 
-Hi, I'm MD Riaz, a passionate self-taught Frontend & Backend web developer from Bangladesh.
+<p align="center">
+<a href="https://github.com/md-riaz">
+<img src="https://komarev.com/ghpvc/?username=md-riaz&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</a>
+<a href="https://github.com/md-riaz?tab=followers">
+<img src="https://img.shields.io/github/followers/md-riaz?label=Followers&style=flat&color=1f6feb" alt="followers" />
+</a>
+<a href="https://github.com/md-riaz?tab=repositories">
+<img src="https://img.shields.io/badge/Public%20Repos-View-blue?style=flat" alt="repos" />
+</a>
+</p>
 
-<details open="">
-  <summary><b>📈 GitHub Stats</b></summary>
-  <p align="center">
-    <a href="https://github.com/md-riaz/md-riaz"><img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=md-riaz&theme=light"/></a>
-    <a href="https://github.com/md-riaz/md-riaz"><img alt="Engr Saad GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=md-riaz&show_icons=true" width=55%/></a>
-    <a href="https://github.com/md-riaz/md-riaz"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-riaz&layout=compact&langs_count=8" width=40%/></a>
-  </p>
-</details>
+<p align="center">
+<img src="https://img.shields.io/badge/Focus-Realtime%20Communication-7c3aed?style=flat" />
+<img src="https://img.shields.io/badge/Focus-Identity%20%26%20Security-0ea5e9?style=flat" />
+<img src="https://img.shields.io/badge/Focus-Mobile%20%26%20Product-10b981?style=flat" />
+</p>
 
-- 🔭 Full time raw php developer
-- 🌱 Learning other Frontend & Backend staff on leisure times.
-- 💬 Ask me about anything [here](https://github.com/md-riaz/md-riaz/issues)
-- 📫 How to reach me:
+<p align="center">
+Full-stack product builder focused on <b>Realtime Communication</b>, <b>Identity</b>, <b>Telecom</b>, and <b>Mobile</b>.
+</p>
 
-    <a href="https://www.facebook.com/mdriazwd">
-  <img  align="left" alt="MD Riaz | Facebook" width="30" src="https://raw.githubusercontent.com/md-riaz/md-riaz/2c036120117239c13e6617112e97efc6b704bea0/assets/facebook.svg" /></a>
+---
 
-    <a href="https://twitter.com/mdriaz_wd">
-  <img  align="left" alt="MD Riaz | Twitter" width="30" src="https://raw.githubusercontent.com/md-riaz/md-riaz/f76feb2b446423b9299fbfdb9a3299b352f176aa/assets/twitter.svg" /></a>
+## 🧰 Tech Stack
 
-    <a href="mailto:mdriazwd@gmail.com">
-  <img  align="left" alt="MD Riaz | Gmail" width="30" src="https://raw.githubusercontent.com/md-riaz/md-riaz/70ff6b5cd7e107229d21c2f90de18f66e74c7857/assets/gmail.svg" /></a>
+<p>
+<img src="https://img.shields.io/badge/Laravel-red?style=flat&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" />
+<img src="https://img.shields.io/badge/WebRTC-333333?style=flat" />
+<img src="https://img.shields.io/badge/Jitsi-4A154B?style=flat" />
+<img src="https://img.shields.io/badge/VoIP-SIP%2FPBX-0f766e?style=flat" />
+<img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-VPS-f59e0b?style=flat" />
+</p>
 
-    <a href="[https://mdriaz.netlify.app/](https://mdriaz.netlify.app/)">
-  <img  align="left" alt="MD Riaz | site" width="30" src="https://raw.githubusercontent.com/md-riaz/md-riaz/53432377bf7f41379707df1ac9e38c977dd70d44/assets/www.svg" /></a>
+---
 
-<br />
-<br />
+## 🔥 Featured Projects
 
-- ⚡ Fun fact: I lost time when coding something interesting.. Hahah!
+### Realtime / Communication
 
+- **[Jitsi-Laravel-Admin](https://github.com/md-riaz/Jitsi-Laravel-Admin)**
+Multi-tenant meeting admin platform with JWT-secured join flow, guest/invite logic, admissions, diagnostics, summaries, timeline, CSV exports, and API v1.
 
-![Riaz's github stats](https://github-readme-stats.vercel.app/api?username=md-riaz&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+- **[Jitsi-meet-app-flutter](https://github.com/md-riaz/Jitsi-meet-app-flutter)**
+Flutter client integrated with backend-authorized API v1 join flow (auth join + guest invite + admission polling).
 
-**Languages and Tools:**  
+- **[laravel-softphone](https://github.com/md-riaz/laravel-softphone)**
+Laravel-based telephony workflow project.
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+- **[freeswitch-PushNotificator](https://github.com/md-riaz/freeswitch-PushNotificator)**
+FreeSWITCH push notification integration for call workflows.
 
-<img  align="left" alt="MD Riaz | card" src="https://raw.githubusercontent.com/md-riaz/md-riaz/master/assets/card.jpg" />
+---
+
+### Identity / Security
+
+- **[AegisIDP](https://github.com/md-riaz/AegisIDP)**
+Identity and access platform architecture.
+
+- **[CrownID](https://github.com/md-riaz/CrownID)**
+Identity management product work for real business scenarios.
+
+---
+
+### Product / Platform / CMS
+
+- **[OmniPost-CMS](https://github.com/md-riaz/OmniPost-CMS)**
+CMS-focused product platform.
+
+- **[DomainDesk](https://github.com/md-riaz/DomainDesk)**
+Domain/business operations tooling.
+
+- **[laravel-livewire-crm](https://github.com/md-riaz/laravel-livewire-crm)**
+CRM and workflow-centric Laravel app.
+
+- **[laravel-news](https://github.com/md-riaz/laravel-news)**
+News/content product workflow implementation.
+
+---
+
+### Mobile / Utilities
+
+- **[flutter-notifyhub](https://github.com/md-riaz/flutter-notifyhub)**
+Flutter notification infrastructure and integration patterns.
+
+- **[flutter_sms_net_bd](https://github.com/md-riaz/flutter_sms_net_bd)**
+Flutter SMS utility package/workflow.
+
+---
+
+## 🌍 Open Source Contributions
+
+- **flutter-webrtc** — [PR #1941](https://github.com/flutter-webrtc/flutter-webrtc/pull/1941)
+- **FusionPBX core** — [PR #6812](https://github.com/fusionpbx/fusionpbx/pull/6812)
+- **fusionpbx-apps** — [PR #1](https://github.com/nbhanji/fusionpbx-apps/pull/1)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=md-riaz&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-riaz&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=md-riaz&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🧠 Current Focus
+
+- API-first meeting systems with stable v1 contracts
+- Guest/invite/admission policy flows
+- Web + Flutter integration for realtime products
+- Diagnostics, timeline analytics, and production reliability
+
+---
+
+## 📚 More
+
+🔗 All public repos: **<https://github.com/md-riaz?tab=repositories>**
+
+💼 LinkedIn: **<https://www.linkedin.com/in/md-riaz/>**
